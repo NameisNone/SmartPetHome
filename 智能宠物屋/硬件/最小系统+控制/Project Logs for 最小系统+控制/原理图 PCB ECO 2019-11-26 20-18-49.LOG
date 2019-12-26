@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=12V Pin=J1-1
+Removed Pin From Net: NetName=RELAY4 Pin=J7-17
+Removed Pin From Net: NetName=12V Pin=U1-2
+Removed Pin From Net: NetName=RELAY4 Pin=U4-4
+Added Component: Designator=J?(sip-3)
+Added Component: Designator=S?(SWPB)
+Added Component: Designator=S?(SWPB)
+Added Component: Designator=S?(SWITCH_B1)
+Added Pin To Net: NetName=RELAY4 Pin=J7-13
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=5V Pin=J?-3
+Added Pin To Net: NetName=12V Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-4
+Added Pin To Net: NetName=GND Pin=S?-4
+Added Pin To Net: NetName=RELAY4 Pin=U4-8
+Added Pin To Net: NetName=A8 Pin=J7-16
+Added Pin To Net: NetName=A8 Pin=S?-1
+Added Pin To Net: NetName=A8 Pin=S?-3
+Added Pin To Net: NetName=A8 Pin=U4-5
+Added Net: Name=A8
+Added Pin To Net: NetName=B15 Pin=J7-17
+Added Pin To Net: NetName=B15 Pin=S?-1
+Added Pin To Net: NetName=B15 Pin=S?-3
+Added Pin To Net: NetName=B15 Pin=U4-4
+Added Net: Name=B15
+Added Pin To Net: NetName=DATA Pin=J6-2
+Added Pin To Net: NetName=DATA Pin=J?-2
+Added Pin To Net: NetName=DATA Pin=U4-22
+Added Net: Name=DATA
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=S?-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-2
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=PCB Member=Component J? CON3
+Added Member To Class: ClassName=PCB Member=Component S? SW-PB
+Added Member To Class: ClassName=PCB Member=Component S? SW-PB
+Added Member To Class: ClassName=PCB Member=Component S? SW-DPDT

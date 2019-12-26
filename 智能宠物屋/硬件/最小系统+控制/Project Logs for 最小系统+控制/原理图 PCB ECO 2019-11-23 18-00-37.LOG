@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=VCC Pin=U?-2
+Added Member To Class: ClassName=PCB Member=Component U? stm32c8t6
+Added Member To Class: ClassName=PCB Member=Component U? LM2596Ä£¿é

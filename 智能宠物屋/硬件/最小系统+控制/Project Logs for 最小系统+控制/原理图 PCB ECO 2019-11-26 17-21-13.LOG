@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=RELAY1 Pin=J7-5
+Added Pin To Net: NetName=RELAY2 Pin=J7-6
+Added Pin To Net: NetName=RELAY3 Pin=J7-7
+Added Pin To Net: NetName=RELAY4 Pin=J7-8
+Added Pin To Net: NetName=RELAY4 Pin=U4-13
+Added Pin To Net: NetName=RELAY3 Pin=U4-14
+Added Pin To Net: NetName=RELAY2 Pin=U4-15
+Added Pin To Net: NetName=RELAY1 Pin=U4-16

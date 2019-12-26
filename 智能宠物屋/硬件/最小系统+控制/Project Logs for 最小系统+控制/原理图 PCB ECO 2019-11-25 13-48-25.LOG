@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=WIFI Old Footprint=IDC8 New Footprint=IDC-8
+Change Component Designator: OldDesignator=WIFI NewDesignator=WIFIÄ£¿é
+Added Member To Class: ClassName=PCB Member=Component J? CON2
+Added Member To Class: ClassName=PCB Member=Component J? CON3
+Added Member To Class: ClassName=PCB Member=Component J? CON3
+Added Member To Class: ClassName=PCB Member=Component J? CON3
+Added Member To Class: ClassName=PCB Member=Component JP? HEADER 3X2
+Added Member To Class: ClassName=PCB Member=Component U? MiniMP3-16PÄ£¿é
+Added Member To Class: ClassName=PCB Member=Component U? LM2596Ä£¿é
+Added Member To Class: ClassName=PCB Member=Component U? stm32c8t6

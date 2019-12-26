@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP2
+Change Component Designator: OldDesignator=JP? NewDesignator=JP3
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ8_2
+Added Member To Class: ClassName=PCB Member=Component J9 CON3
+Added Member To Class: ClassName=PCB Member=Component JP1 HEADER 5X2
+Added Member To Class: ClassName=PCB Member=Component JP2 HEADER 5X2

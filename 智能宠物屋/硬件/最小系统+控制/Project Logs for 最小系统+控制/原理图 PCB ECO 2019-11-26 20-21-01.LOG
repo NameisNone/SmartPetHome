@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=S? NewDesignator=S2
+Change Component Designator: OldDesignator=S? NewDesignator=S3
+Added Member To Class: ClassName=PCB Member=Component S1 SW-DPDT
+Added Member To Class: ClassName=PCB Member=Component S2 SW-PB

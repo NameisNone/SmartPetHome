@@ -1,0 +1,180 @@
+Board Information Report
+Filename     : E:\智能宠物屋\硬件\最小系统+控制\原理图.PcbDoc
+Date         : 2019/11/27
+Time         : 13:27:33
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 4545milsx3980mils
+    Components on board, 26
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 121
+    Connections routed, 121
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 0, 0, 8, 0, 0, 12, 0
+    Bottom Layer, 0, 0, 0, 326, 0, 0, 247, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 3
+    Mechanical 13, 0, 0, 0, 0, 0, 0, 0, 4
+    Multi-Layer, 0, 185, 12, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 9, 0, 0, 149, 59, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 4, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 14
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 12
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    23.622mils, 0, 12
+    33.465mils, 16, 0
+    35.433mils, 140, 0
+    35.433mils, 4, 0
+    36mils, 4, 0
+    39.37mils, 8, 0
+    43.307mils, 6, 0
+    118.11mils, 3, 0
+    125mils, 4, 0
+count : 9
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    15.748mils, 12
+    23.622mils, 144
+    24mils, 4
+    29.528mils, 6
+    31.535mils, 16
+    59.055mils, 3
+    60.63mils, 8
+    75mils, 4
+count : 8
+
+Mid Layer Annular Ring Size, Count
+    15.748mils, 12
+    23.622mils, 144
+    24mils, 4
+    29.528mils, 6
+    31.535mils, 16
+    59.055mils, 3
+    60.63mils, 8
+    75mils, 4
+count : 8
+
+Bottom Layer Annular Ring Size, Count
+    15.748mils, 12
+    23.622mils, 144
+    24mils, 4
+    29.528mils, 6
+    31.535mils, 16
+    59.055mils, 3
+    60.63mils, 8
+    75mils, 4
+count : 8
+
+Pad Solder Mask, Count
+    4mils, 185
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 185
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 185
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 185
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 185
+count : 1
+
+Pad Relief Entries, Count
+    4, 185
+count : 1
+
+Via Solder Mask, Count
+    4mils, 12
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 12
+count : 1
+
+Track Width, Count
+    7.874mils, 25
+    10mils, 89
+    12mils, 22
+    15mils, 5
+    20mils, 99
+    30mils, 201
+    40mils, 40
+    50mils, 6
+count : 8
+
+Arc Line Width, Count
+    7.874mils, 1
+    9.843mils, 1
+    10mils, 6
+    20mils, 1
+count : 4
+
+Arc Radius, Count
+    4.921mils, 1
+    25mils, 1
+    80.623mils, 2
+    141.421mils, 1
+    157.48mils, 4
+count : 5
+
+Arc Degrees, Count
+    90, 1
+    180, 1
+    360, 7
+count : 3
+
+Text Height, Count
+    60mils, 58
+    100mils, 1
+count : 2
+
+Text Width, Count
+    6mils, 1
+    10mils, 58
+count : 2
+
+Net Track Width, Count
+    15mils, 47
+count : 1
+
+Net Via Size, Count
+    50mils, 47
+count : 1

@@ -1,0 +1,7 @@
+Added Component: Designator=U?(VCCIN)
+Added Component: Designator=U?(LM2596Ä£¿é)
+Added Component: Designator=U?(DIP-40)
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Net: Name=VCC
+Added Class: Name=PCB
+Added Room: Name=PCB

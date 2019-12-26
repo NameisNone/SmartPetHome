@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=U1TX Pin=J9-1
+Removed Pin From Net: NetName=U1RX Pin=J9-2
+Removed Pin From Net: NetName=U2TX Pin=U3-2
+Removed Pin From Net: NetName=U2RX Pin=U3-3
+Added Pin To Net: NetName=U2TX Pin=J9-1
+Added Pin To Net: NetName=U2RX Pin=J9-2
+Added Pin To Net: NetName=U1TX Pin=U3-2
+Added Pin To Net: NetName=U1RX Pin=U3-3
